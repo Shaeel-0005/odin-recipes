@@ -1,4 +1,4 @@
-# **Odin Recipes**  
+# ** Recipes**  
 
 ## **Introduction**  
 This project is part of *The Odin Project’s* curriculum, designed to help me practice the basics of **HTML** and **website structuring**. The goal is to create a simple recipe website that displays different recipes using only HTML.  
